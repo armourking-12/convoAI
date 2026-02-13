@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "838573339061",
+    "project_id": "convoai-f1a0c",
+    "storage_bucket": "convoai-f1a0c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838573339061:android:bf4f21ba94a67c527e29fc",
+        "android_client_info": {
+          "package_name": "com.duddleTech.convoAI"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838573339061-pfvtdrj10gu3p4nc6mpmrk4kd5s66rah.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.duddleTech.convoAI",
+            "certificate_hash": "3f8dc18e75094bc80f8b9e6bbb3843d5d417ffdd"
+          }
+        },
+        {
+          "client_id": "838573339061-o3c2a974m7qi1h5c4k3e86bsvqgtlfhm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBswQWtjauodVHSrSAmGHaY4xattzuDkiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838573339061-o3c2a974m7qi1h5c4k3e86bsvqgtlfhm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

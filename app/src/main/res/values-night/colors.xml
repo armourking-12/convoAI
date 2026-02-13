@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_500">#8B5CF6</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="primary_blue">#3B82F6</color>
+    <color name="accent_primary">#3B82F6</color>
+    <color name="accent_glow">#4D3B82F6</color>
+
+    <color name="bg_app">#0F172A</color>
+    <color name="bg_primary">#0F172A</color>
+    <color name="bg_card">#1E293B</color>
+    <color name="bg_elevated">#1E293B</color>
+    <color name="bg_surface">#334155</color>
+
+    <color name="app_background">#0F172A</color>
+    <color name="surface_color">#1E293B</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#94A3B8</color>
+    <color name="icon_tint">#94A3B8</color>
+
+    <color name="input_bg_color">#1E293B</color>
+    <color name="input_border_color">#334155</color>
+
+    <color name="sidebar_bg">#1E293B</color>
+    <color name="sidebar_item_bg">#334155</color>
+</resources>

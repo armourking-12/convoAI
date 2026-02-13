@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ConvoAI</string>
+
+    <string name="app_header_title">Gemini Pro</string>
+    <string name="input_hint">Type a message...</string>
+    <string name="send_description">Send Message</string>
+
+    <string name="default_user_text">Hello!</string>
+    <string name="default_bot_text">I am Gemini. How can I help?</string>
+</resources>

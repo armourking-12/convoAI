@@ -1,0 +1,54 @@
+[
+  { "text": "Write a Java code for a Calculator", "icon": "💻" },
+  { "text": "Create a simple Android login screen XML", "icon": "📱" },
+  { "text": "Explain OOP concepts with examples", "icon": "🧠" },
+  { "text": "How do I center a div in CSS?", "icon": "🎨" },
+  { "text": "Generate a Python to-do list app", "icon": "🐍" },
+
+  { "text": "Give me a 3-day gym workout plan", "icon": "💪" },
+  { "text": "Healthy diet plan for weight loss", "icon": "🥗" },
+  { "text": "Morning stretching routine", "icon": "🧘" },
+
+  { "text": "Explain Quantum Physics simply", "icon": "⚛️" },
+  { "text": "Summarize photosynthesis in easy words", "icon": "🌿" },
+  { "text": "Teach me math tricks for fast calculation", "icon": "➗" },
+  { "text": "Create a study timetable for exams", "icon": "📚" },
+
+  { "text": "Write a professional email for leave", "icon": "📝" },
+  { "text": "Draft a resume summary for a fresher", "icon": "📄" },
+  { "text": "Generate a LinkedIn bio", "icon": "💼" },
+  { "text": "Correct my grammar and rewrite politely", "icon": "✍️" },
+
+  { "text": "Suggest a dinner recipe for two", "icon": "🍳" },
+  { "text": "Quick 10-minute snacks ideas", "icon": "🥪" },
+  { "text": "Indian vegetarian meal plan", "icon": "🍛" },
+
+  { "text": "Design a modern app color palette", "icon": "🎨" },
+  { "text": "Create a logo idea for an AI startup", "icon": "✨" },
+  { "text": "Generate UI inspiration for a chat app", "icon": "📐" },
+
+  { "text": "Plan my day for maximum productivity", "icon": "⏰" },
+  { "text": "Best habits to wake up early", "icon": "🌅" },
+  { "text": "Money saving tips for students", "icon": "💰" },
+  { "text": "Travel plan for a weekend trip", "icon": "✈️" },
+
+  { "text": "Explain AI and Machine Learning difference", "icon": "🤖" },
+  { "text": "Build a chatbot step-by-step guide", "icon": "🛠️" },
+  { "text": "Latest tech trends to learn in 2026", "icon": "🚀" },
+
+  { "text": "Tell me a random fun fact", "icon": "🤓" },
+  { "text": "Write a short motivational quote", "icon": "🌟" },
+  { "text": "Give me a joke to make me laugh", "icon": "😂" },
+  { "text": "Roast me like a friend (funny only)", "icon": "🔥" },
+  { "text": "Create a funny pickup line", "icon": "😜" },
+  { "text": "Generate a meme caption", "icon": "🤣" },
+
+  { "text": "Write a short horror story", "icon": "👻" },
+  { "text": "Create a sci-fi movie plot", "icon": "🚀" },
+  { "text": "Give me a bedtime story", "icon": "🌙" },
+  { "text": "Suggest Instagram captions", "icon": "📸" },
+
+  { "text": "Daily affirmations for confidence", "icon": "💖" },
+  { "text": "Help me relax with breathing exercises", "icon": "🌿" },
+  { "text": "Suggest hobbies to learn at home", "icon": "🎯" }
+]
